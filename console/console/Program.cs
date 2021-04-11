@@ -10,7 +10,8 @@ namespace console
     {
         static void Main(string[] args)
         {
-            Console.Write("a+a")
+            Console.Write("a+a");
+            Console.WriteLine("x");
         }
     }
 }
